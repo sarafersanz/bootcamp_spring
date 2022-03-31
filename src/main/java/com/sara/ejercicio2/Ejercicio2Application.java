@@ -27,8 +27,8 @@ public class Ejercicio2Application {
 		
 		//TODO
 		// crear productos
-		// crear 2 pedidos
-		// distinguir pedido y calcular iva
+		// crear 2 pedidos peninsular e insular
+		// calcular iva pedidos
 		
 		
 	}
